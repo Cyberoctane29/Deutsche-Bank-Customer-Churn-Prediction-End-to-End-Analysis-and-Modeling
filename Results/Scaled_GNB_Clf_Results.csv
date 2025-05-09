@@ -1,0 +1,2 @@
+Model,F1,Recall,Precision,Accuracy
+Scaled GNB Classifier,0.389,0.303,0.544,0.806
